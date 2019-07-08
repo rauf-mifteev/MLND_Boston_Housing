@@ -9,7 +9,13 @@ This is Boston housing prices predicting project. In this project, I used **SciK
 * Finally, I tested this optimal model on a new sample and compared the predicted selling price to statistics.
 
 ## Prerequisites
-The code is **Python** in a **Jupyter Notebook** and it uses [**SciKit-learn**](https://scikit-learn.org/stable/). You can install everything you need to run this project by installing [Anaconda](https://www.anaconda.com/).
+The code is **Python** in a **Jupyter Notebook** and it uses:
+* [SciKit-learn](https://scikit-learn.org/stable/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/) 
+* [NumPy](http://www.numpy.org/)
+
+You can install everything you need to run this project with [Anaconda](https://www.anaconda.com/).
 
 ## Installing
 Clone this repository:
